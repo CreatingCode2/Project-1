@@ -1,2 +1,2 @@
 # Project-1
-"Steadily Learning and creating!"
+"Steadily Learning and Creating!"
